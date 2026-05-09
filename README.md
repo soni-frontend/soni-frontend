@@ -27,7 +27,7 @@ I am a passionate Frontend Developer from Bihar, India. I enjoy building respons
 ---
 
 ### 📫 Let's Connect!
-- **LinkedIn:** (linkedin.com/in/soni-kumari-bca/)
+- **LinkedIn:** ([LinkedIn](https://www.linkedin.com/in/soni-kumari-bca))
 - **Email:** [kumarisoni9229@gmail.com]
 
 ---
