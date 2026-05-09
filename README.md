@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi there! I'm Soni 👋
 
-<!--
-**soni-frontend/soni-frontend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👩‍💻 Aspiring Frontend Developer | BCA Graduate
+I am a passionate Frontend Developer from Bihar, India. I enjoy building responsive and user-friendly web applications using modern technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎓 Education
+- **Bachelor of Computer Applications (BCA)**
+- **College:** Jamuni Lal College, Hajipur (Affiliated with BRA Bihar University)
+- **Status:** Final Semester Completed (Result Awaited) 🎓
+
+---
+
+### 🛠 Tech Stack
+- **Languages:** HTML5, CSS3, JavaScript (ES6+)
+- **Frameworks/Libraries:** React.js, Tailwind CSS
+- **Tools & Platforms:** Git, GitHub, VS Code, Netlify, Vercel
+
+---
+
+### 🚀 Featured Projects
+- **Personal Portfolio:** My professional resume in web format.
+- **Task Manager:** A React-based To-Do application.
+- **Scientific Calculator:** Built with pure JavaScript.
+
+---
+
+### 📫 Let's Connect!
+- **LinkedIn:** [linkedin.com/in/soni-kumari-bca]
+- **Email:** [kumarisoni9229@gmail.com]
+
+---
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=soni-frontend&show_icons=true&theme=radical" alt="Soni's GitHub Stats" />
+</p>
