@@ -29,12 +29,12 @@ I am a passionate Frontend Developer from Bihar, India. I enjoy building respons
 #### 📂 Scientific Calculator
 - **Description:** A responsive calculator with basic and scientific functions.
 - **Tech Stack:** HTML, CSS, JavaScript
-- 🔗 [View Code](https://github.com/soni-frontend/Scientific-Calculator) | 🌐 [Live Demo]( https://soni-frontend.github.io/Calculator---App/))
+- 🔗 [View Code](https://github.com/soni-frontend/Scientific-Calculator) | 🌐 [Live Demo]( https://soni-frontend.github.io/Calculator---App/)
 
 #### 📂 Task Manager
 - **Description:** A simple and efficient tool to manage daily tasks.
 - **Tech Stack:** HTML, CSS, JavaScript
-- 🔗 [View Code](https://github.com/soni-frontend/Task-Manager) | 🌐 [Live Demo]()
+- 🔗 [View Code](https://github.com/soni-frontend/Task-Manager) | 🌐 [Live Demo](https://soni-frontend.github.io/To-Do-List-App/)
 ---
 
 ### 📫 Let's Connect!
