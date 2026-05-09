@@ -20,10 +20,21 @@ I am a passionate Frontend Developer from Bihar, India. I enjoy building respons
 ---
 
 ### 🚀 Featured Projects
-- **Personal Portfolio:** My professional resume in web format.
-- **Task Manager:** A React-based To-Do application.
-- **Scientific Calculator:** Built with pure JavaScript.
 
+#### 📂 Personal Portfolio
+- **Description:** My professional resume website showcasing my skills and journey.
+- **Tech Stack:** HTML, CSS, JavaScript
+- 🔗 [View Code](https://github.com/soni-frontend/portfolio) | 🌐 [Live Demo](https://soni-frontend.github.io/portfolio/)
+
+#### 📂 Scientific Calculator
+- **Description:** A responsive calculator with basic and scientific functions.
+- **Tech Stack:** HTML, CSS, JavaScript
+- 🔗 [View Code](https://github.com/soni-frontend/Scientific-Calculator) | 🌐 [Live Demo]()
+
+#### 📂 Task Manager
+- **Description:** A simple and efficient tool to manage daily tasks.
+- **Tech Stack:** HTML, CSS, JavaScript
+- 🔗 [View Code](https://github.com/soni-frontend/Task-Manager) | 🌐 [Live Demo]()
 ---
 
 ### 📫 Let's Connect!
