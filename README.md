@@ -1,7 +1,7 @@
 # Hi there! I'm Soni 👋
 
-### 👩‍💻 Aspiring Frontend Developer | BCA Graduate
-I am a passionate Frontend Developer from Bihar, India. I enjoy building responsive and user-friendly web applications using modern technologies.
+### 👩‍💻 Software Developer | React.js Developer | Frontend Developer
+I am a passionate Web Development and Software Development from Bihar, India. I enjoy building responsive and user-friendly web applications using modern technologies.
 
 ---
 
@@ -20,6 +20,16 @@ I am a passionate Frontend Developer from Bihar, India. I enjoy building respons
 ---
 
 ### 🚀 Featured Projects
+
+#### 📂 AI Spend Audit
+- **Description:** Track and Analyze AI-Related Expense through a responsive web application .
+- **Tech Stack:** React.js, JavaScript, Tailwind CSS
+- 🔗 [View Code](https://github.com/soni-frontend/ai-spend-audit) | 🌐 [Live Demo](https://ai-spend-audit-kappa-seven.vercel.app/)
+
+#### 📂 Edustream Hub
+- **Description:** Manage Student records and attendance with an intuitive dashboard.
+- **Tech Stack:**  React.js, JavaScript, Tailwind CSS
+- 🔗 [View Code](https://github.com/soni-frontend/edustream-hub) | 🌐 [Live Demo](🌐 [Live Demo](https://edustream-hub.vercel.app/)
 
 #### 📂 Personal Portfolio
 - **Description:** My professional resume website showcasing my skills and journey.
@@ -41,8 +51,4 @@ I am a passionate Frontend Developer from Bihar, India. I enjoy building respons
 - **LinkedIn:** ([LinkedIn](https://www.linkedin.com/in/soni-kumari-bca))
 - **Email:** [kumarisoni9229@gmail.com]
 
----
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=soni-frontend&show_icons=true&theme=radical" alt="Soni's GitHub Stats" />
-</p>
+### Always learning and building new projects
