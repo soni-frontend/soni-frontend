@@ -14,8 +14,10 @@ I am a passionate Web Development and Software Development from Bihar, India. I 
 
 ### 🛠 Tech Stack
 - **Languages:** HTML5, CSS3, JavaScript (ES6+)
+- **Programming:** Java, Python (Foundational)
+- **Core CS Concepts:** Data Structures, SDLC(Software Development Life Cycle)
 - **Frameworks/Libraries:** React.js, Tailwind CSS
-- **Tools & Platforms:** Git, GitHub, VS Code, Netlify, Vercel
+- **Tools & Platforms:** Git, GitHub, VS Code, Vercel
 
 ---
 
