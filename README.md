@@ -28,6 +28,11 @@ I am a passionate Web Development and Software Development from Bihar, India. I 
 - **Tech Stack:** React.js, JavaScript, Tailwind CSS
 - 🔗 [View Code](https://github.com/soni-frontend/ai-spend-audit) | 🌐 [Live Demo](https://ai-spend-audit-kappa-seven.vercel.app/)
 
+📂 **My Digital Card**
+* **Description:** A sleek, interactive, and responsive digital business card featuring smooth animations and custom shadows.
+* **Tech Stack:** HTML5, CSS3, JavaScript
+* 🔗 [View Code](https://github.com/soni-frontend/My-digital-card) | 🌐 [Live Demo](https://soni-frontend.github.io/My-digital-card/)
+
 #### 📂 Edustream Hub
 - **Description:** Manage Student records and attendance with an intuitive dashboard.
 - **Tech Stack:**  React.js, JavaScript, Tailwind CSS
