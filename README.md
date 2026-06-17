@@ -34,7 +34,12 @@ I am a passionate **Web Developer** and **Frontend Developer** from Bihar, India
 ### 📂 My Digital Card  
 - **Description:** A sleek, interactive, and responsive digital business card with modern UI design.  
 - **Tech Stack:** HTML5, CSS3, JavaScript  
-- 🔗 [View Code](https://github.com/soni-frontend/My-digital-card) | 🌐 [Live Demo](https://soni-frontend.github.io/My-digital-card/)  
+- 🔗 [View Code](https://github.com/soni-frontend/My-digital-card) | 🌐 [Live Demo](https://soni-frontend.github.io/My-digital-card/)
+
+### 📂 Notes App  
+- **Description:** A responsive note-taking application that allows users to create, edit, and delete notes with local storage support.  
+- **Tech Stack:** HTML5, CSS3, JavaScript  
+- 🔗 [View Code](https://github.com/soni-frontend/Notes-App) | 🌐 [Live Demo](https://soni-frontend.github.io/Notes-App/)  
 
 ### 📂 Edustream Hub  
 - **Description:** Student management dashboard for handling student records and attendance.  
