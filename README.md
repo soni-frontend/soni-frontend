@@ -1,8 +1,8 @@
 # Hi there! I'm Soni 👋  
 
-### 👩‍💻 Web Developer | Frontend Developer | React.js Developer  
+### 👩‍💻 Web Developer | Software Developer |Java Developer  
 
-I am a passionate **Web Developer** and **Frontend Developer** from Bihar, India. I enjoy building responsive, user-friendly, and modern web applications using current technologies while continuously improving my development skills through real-world projects.  
+I am a passionate **Web Developer** and **Java Developer** from Bihar, India. I enjoy building responsive, user-friendly, and modern web applications using current technologies while continuously improving my development skills through real-world projects.  
 
 ---
 
@@ -16,10 +16,10 @@ I am a passionate **Web Developer** and **Frontend Developer** from Bihar, India
 
 ## 🛠 Tech Stack  
 
-- **Languages:** HTML5, CSS3, JavaScript (ES6+)  
+- **Languages:**Java, HTML5, CSS3, JavaScript (ES6+)  
 - **Frameworks/Libraries:** React.js, Tailwind CSS  
-- **Tools & Platforms:** Git, GitHub, VS Code, Vercel  
-- **Basic Knowledge:** Java, Python  
+- **Tools & Platforms:** Git, GitHub, VS Code 
+- **Basic Knowledge:**  Python  
 - **Core Concepts:** Data Structures, SDLC, Responsive Web Design  
 
 ---
